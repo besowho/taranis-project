@@ -1,3 +1,5 @@
+![Taranis Image](/appweb/images/taranis_low_res.jpg)
+
 # Welcome to TaranisProject
 Taranis Project is a **quasi real-time port noise mapping web application based on open data**
 
