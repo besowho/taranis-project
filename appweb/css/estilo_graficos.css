@@ -1,0 +1,39 @@
+/*|---------------------|*/
+/*| Project: SESONAR    |*/
+/*| Autor: Misael MDV   |*/
+/*| SBDS MIG  v.1.1     |*/
+/*| besowho@hotmail.com |*/
+/*|---------------------|*/
+
+
+/*******************
+GRAPH PROPERTIES
+*******************/
+
+#graph {
+  width: 500px;
+  height: 400px;
+  margin: 5px 5px 5px 5px;
+}
+
+#code {
+  width: 900px;
+  height: 600px;
+  margin: 5px 5px 5px 5px;
+}
+pre {
+  height: 10px;
+ 
+}
+
+
+.x1Label {
+        fill: rgb(0, 225, 255);
+        font-size: 14px;
+        font-family: Helvetica, Verdana, sans-serif;
+    }
+    
+.y1Label {
+        fill: rgb(0, 225, 255);
+        font-size: 14px;
+    }
