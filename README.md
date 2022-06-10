@@ -4,8 +4,8 @@
 Taranis Project is a **quasi real-time port noise mapping web application based on open data**
 
 ## About the platform
-The web application is developed using PHP and JavaScritp where it shows the mapping of the results obtained from the noise propagation algorithm in the Backend that Python uses through the use of public data Webservices that add informative details to the algorithm and the FrontEnd.
+The front-end is a web application that shows the resultant noise map computed by the noise propagation algorithm in the back-end. The back-end is developed mainly in Python, and uses only public data available in the web to calculate the port noise maps.
 
 ## Initial Developers 
-- (EnD) Guillermo Quintero Perez
+- (PhD) Guillermo Quintero Perez
 - (BSc Eng) Misael Moreno Del Valle
