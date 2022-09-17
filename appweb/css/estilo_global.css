@@ -120,7 +120,7 @@ GLOBAL CONTENT FORM
 	
 .global-form
 {
-	width: 600px;
+	width: auto;
 	margin: 0 auto;
 	position: relative;
 	
